@@ -7,16 +7,16 @@ function Footer() {
   return (
     <div className=" bg-[#212529] flex items-center justify-center h-16 mt-9 md:mt-0">
       <div className="flex justify-between w-[98%] items-center">
-        <p className="text-white text-2xl md:text-3xl">Akhil Singh</p>
+        <p className="text-white text-xl md:text-3xl">Akhil Singh</p>
         <div className="flex gap-5 justify-center items-center">
           <a href="https://github.com/Akhilsingh7" target="_blank">
-            <FaGithub size={30} className=" text-white" />
+            <FaGithub size={20} className=" text-white" />
           </a>
           <a href="https://www.linkedin.com/in/akhilsingh7" target="_blank">
-            <FaLinkedin size={30} className=" text-white" />
+            <FaLinkedin size={20} className=" text-white" />
           </a>
           <a href="https://twitter.com/AkhilSi28761859" target="_blank">
-            <FaTwitter size={30} className=" text-white " />
+            <FaTwitter size={20} className=" text-white " />
           </a>
         </div>
 
