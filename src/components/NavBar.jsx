@@ -106,7 +106,7 @@ const Navbar = () => {
             to="contact"
             smooth={true}
             duration={500}
-            offset={-40}
+            offset={-45}
           >
             Contact
           </Link>
