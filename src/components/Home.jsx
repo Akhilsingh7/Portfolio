@@ -9,7 +9,7 @@ const Home = () => {
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full animate-slide-from-left ">
         <p className="text-black text-lg ">Hi, my name is</p>
         <h1 className="text-4xl sm:text-7xl font-bold text-slate-500">
-          AKHIL SINGH hii
+          AKHIL SINGH
         </h1>
         <h2 className="text-4xl sm:text-6xl font-bold text-black">
           I'm a MERN Stack Developer.
