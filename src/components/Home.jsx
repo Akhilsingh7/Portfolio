@@ -1,6 +1,5 @@
 import React from "react";
 import { HiArrowNarrowRight } from "react-icons/hi";
-import { FaGithub } from "react-icons/fa";
 
 const Home = () => {
   return (
@@ -10,7 +9,7 @@ const Home = () => {
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full animate-slide-from-left ">
         <p className="text-black text-lg ">Hi, my name is</p>
         <h1 className="text-4xl sm:text-7xl font-bold text-slate-500">
-          AKHIL SINGH
+          AKHIL SINGH hii
         </h1>
         <h2 className="text-4xl sm:text-6xl font-bold text-black">
           I'm a MERN Stack Developer.
