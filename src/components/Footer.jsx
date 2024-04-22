@@ -13,7 +13,7 @@ function Footer() {
           <a href="https://github.com/Akhilsingh7" target="_blank">
             <FaGithub size={20} className=" text-white" />
           </a>
-          <a href="mailto:your-akhilkumarsingh428@example.com" target="_blank">
+          <a href="mailto:akhilkumarsingh428@example.com" target="_blank">
             <HiOutlineMail size={25} className="text-white " />
           </a>
           <a href="https://www.linkedin.com/in/akhilsingh7" target="_blank">
