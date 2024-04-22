@@ -5,7 +5,7 @@ import { FaTwitter } from "react-icons/fa";
 
 function Footer() {
   return (
-    <div className=" bg-[#212529] flex items-center justify-center h-16 mt-9 md:mt-0">
+    <div className=" bg-[#212529] flex items-center justify-center h-14 mt-9 md:mt-0">
       <div className="flex justify-between w-[98%] items-center">
         <p className="text-white text-xl md:text-3xl">Akhil Singh</p>
         <div className="flex gap-5 justify-center items-center">
