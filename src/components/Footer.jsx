@@ -15,8 +15,11 @@ function Footer() {
           <a href="https://www.linkedin.com/in/akhilsingh7" target="_blank">
             <FaLinkedin size={20} className=" text-white" />
           </a>
-          <a href="https://twitter.com/AkhilSi28761859" target="_blank">
+          {/* <a href="https://twitter.com/AkhilSi28761859" target="_blank">
             <FaTwitter size={20} className=" text-white " />
+          </a> */}
+          <a href="mailto:your-akhilkumarsingh428@example.com" target="_blank">
+            <HiOutlineMail size={20} className="text-white" />
           </a>
         </div>
 
