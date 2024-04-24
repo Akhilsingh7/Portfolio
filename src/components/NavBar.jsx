@@ -22,7 +22,7 @@ const Navbar = () => {
       <div>
         {/* <img src={Logo} alt="Logo Image" style={{ width: "200px" }} /> */}
         <h1
-          className="md:text-4xl text-3xl  bold text-black font-medium"
+          className="md:text-4xl text-3xl  text-black font-medium"
           style={{ textShadow: "1px 1px 2px rgba(0, 0, 0, 0.3)" }}
         >
           Akhil Singh

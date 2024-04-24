@@ -6,7 +6,13 @@ import { HiOutlineMail } from "react-icons/hi";
 
 function Footer() {
   return (
-    <div className=" bg-[#212529] flex items-center justify-center h-14 mt-9 md:mt-0">
+    <div
+      className=" bg-[#212529]  flex items-center justify-center h-14 mt-9 md:mt-0"
+      style={{
+        background:
+          "radial-gradient(circle at 10% 20%, rgb(0, 0, 0) 0%, rgb(64, 64, 64) 90.2%)",
+      }}
+    >
       <div className="flex justify-between w-[98%] items-center">
         <p className="text-white text-xl md:text-3xl">Akhil Singh</p>
         <div className="flex gap-6 justify-center items-center  mr-1">

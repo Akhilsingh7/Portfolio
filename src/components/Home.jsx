@@ -8,7 +8,15 @@ const Home = () => {
       {/* Container */}
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full animate-slide-from-left ">
         <p className="text-black text-lg ">Hi, my name is</p>
-        <h1 className="text-4xl sm:text-7xl font-bold text-slate-500">
+        <h1
+          className="text-4xl sm:text-7xl font-bold text-slate-500"
+          style={{
+            backgroundImage:
+              "linear-gradient(to right, #000000 0%, #ffffff  55%)",
+            WebkitBackgroundClip: "text",
+            WebkitTextFillColor: "transparent",
+          }}
+        >
           AKHIL SINGH
         </h1>
         <h2 className="text-4xl sm:text-6xl font-bold text-black">
@@ -25,7 +33,7 @@ const Home = () => {
             href="https://drive.google.com/file/d/16DGU117jRS-EJHRK62kBrQ1laRvqXe7c/view?usp=sharing"
             target="_blank"
           >
-            <button className="text-black group border-2 px-6 py-3 my-2 flex items-center  border-black hover:bg-black hover:text-white">
+            <button className="text-black group border-2 px-6 py-3 my-2 flex items-center  border-black hover:bg-black hover:text-white ">
               {" "}
               My Resume
               <span className="group-hover:rotate-90 duration-300">
