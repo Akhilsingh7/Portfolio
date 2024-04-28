@@ -12,7 +12,7 @@ const Home = () => {
           className="text-4xl sm:text-7xl font-bold text-slate-500"
           style={{
             backgroundImage:
-              "linear-gradient(to right, #000000 0%, #ffffff  70%)",
+              "linear-gradient(to right, #000000 0%, #ffffff  85%)",
             WebkitBackgroundClip: "text",
             WebkitTextFillColor: "transparent",
           }}
