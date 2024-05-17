@@ -30,7 +30,7 @@ const Home = () => {
         </p>
         <div>
           <a
-            href="https://drive.google.com/drive/u/0/folders/138I64uDX_HcMvbrhJHqDFl0gk1l3qgxI"
+            href="https://drive.google.com/file/d/19WFLZq0R6vdAfSy38SrXNudDnkpFs13O/view?usp=drive_link"
             target="_blank"
           >
             <button className="text-black group border-2 px-6 py-3 my-2 flex items-center  border-black hover:bg-black hover:text-white ">
